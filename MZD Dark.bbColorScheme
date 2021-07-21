@@ -9,9 +9,9 @@
 	<key>InsertionPointLineHighlightColor</key>
 	<string>hsla(0.568, 0.098, 0.077, 1.000)</string>
 	<key>InvisibleOthersColor</key>
-	<string>hsla(0.000, 0.000, 0.706, 1.000)</string>
+	<string>hsla(0.000, 0.000, 0.203, 1.000)</string>
 	<key>InvisibleSpacesColor</key>
-	<string>hsla(0.000, 0.000, 0.829, 1.000)</string>
+	<string>hsla(0.000, 0.000, 0.292, 1.000)</string>
 	<key>PrimaryHighlightColor</key>
 	<string>hsla(0.529, 0.707, 0.387, 1.000)</string>
 	<key>SecondaryHighlightColor</key>
