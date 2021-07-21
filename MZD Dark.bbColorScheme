@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>BackgroundColor</key>
-	<string>hsla(0.555, 0.093, 0.158, 1.000)</string>
+	<string>hsla(0.000, 0.000, 0.158, 1.000)</string>
 	<key>DifferenceHighlightColor</key>
 	<string>hsla(0.91, 0.42, 0.34, 1.00)</string>
 	<key>InsertionPointLineHighlightColor</key>
@@ -81,7 +81,7 @@
 	<key>com.barebones.bblm.markdown.Emph</key>
 	<string>hsla(0.544, 0.192, 0.902, 1.000)</string>
 	<key>com.barebones.bblm.markdown.HorizontalRule</key>
-	<string>hsla(0.541, 0.891, 0.902, 1.000)</string>
+	<string>hsla(0.382, 0.447, 0.804, 1.000)</string>
 	<key>com.barebones.bblm.markdown.ImageAltText</key>
 	<string>hsla(0.543, 0.833, 0.765, 1.000)</string>
 	<key>com.barebones.bblm.markdown.ImageId</key>
@@ -89,11 +89,11 @@
 	<key>com.barebones.bblm.markdown.InlineCode</key>
 	<string>hsla(0.544, 0.192, 0.902, 1.000)</string>
 	<key>com.barebones.bblm.markdown.InlineLinkText</key>
-	<string>hsla(0.543, 0.833, 0.765, 1.000)</string>
+	<string>hsla(0.526, 0.717, 0.775, 1.000)</string>
 	<key>com.barebones.bblm.markdown.Keyword</key>
-	<string>hsla(0.541, 0.891, 0.902, 1.000)</string>
+	<string>hsla(0.381, 0.446, 0.804, 1.000)</string>
 	<key>com.barebones.bblm.markdown.LinkDefId</key>
-	<string>hsla(0.543, 0.833, 0.765, 1.000)</string>
+	<string>hsla(0.526, 0.717, 0.775, 1.000)</string>
 	<key>com.barebones.bblm.markdown.LinkDefTitle</key>
 	<string>hsla(0.544, 0.192, 0.902, 1.000)</string>
 	<key>com.barebones.bblm.markdown.LinkDefUrl</key>
@@ -103,9 +103,9 @@
 	<key>com.barebones.bblm.markdown.Pre</key>
 	<string>hsla(0.544, 0.192, 0.902, 1.000)</string>
 	<key>com.barebones.bblm.markdown.QuoteMarker</key>
-	<string>hsla(0.541, 0.891, 0.902, 1.000)</string>
+	<string>hsla(0.382, 0.447, 0.804, 1.000)</string>
 	<key>com.barebones.bblm.markdown.QuotedContent</key>
-	<string>hsla(0.544, 0.192, 0.899, 1.000)</string>
+	<string>hsla(0.382, 0.104, 0.804, 1.000)</string>
 	<key>com.barebones.bblm.number</key>
 	<string>hsla(0.430, 0.641, 0.631, 1.000)</string>
 	<key>com.barebones.bblm.perl.generic-string</key>
