@@ -73,9 +73,9 @@
 	<key>com.barebones.bblm.html.image</key>
 	<string>hsla(0.500, 0.881, 0.511, 1.000)</string>
 	<key>com.barebones.bblm.indexed-symbol</key>
-	<string>hsla(0.641, 0.230, 0.920, 1.000)</string>
+	<string>hsla(0.640, 0.365, 0.576, 1.000)</string>
 	<key>com.barebones.bblm.keyword</key>
-	<string>hsla(0.651, 0.400, 0.870, 1.000)</string>
+	<string>hsla(0.640, 0.365, 0.576, 1.000)</string>
 	<key>com.barebones.bblm.keyword-argument-name</key>
 	<string>hsla(0.651, 0.550, 0.841, 1.000)</string>
 	<key>com.barebones.bblm.markdown.Emph</key>
@@ -129,7 +129,7 @@
 	<key>com.barebones.bblm.sgml-entity</key>
 	<string>hsla(0.191, 0.150, 0.771, 1.000)</string>
 	<key>com.barebones.bblm.sgml-tag</key>
-	<string>hsla(0.641, 0.351, 0.901, 1.000)</string>
+	<string>hsla(0.640, 0.365, 0.576, 1.000)</string>
 	<key>com.barebones.bblm.string</key>
 	<string>hsla(0.161, 0.411, 0.831, 1.000)</string>
 	<key>com.barebones.bblm.syntax-error</key>
